@@ -10,17 +10,16 @@ solution in Factor and another one in Shell scripting.
 
 The following solutions are provided:
 
-* Problem 0: bitcoin.lisp
-* Problem 1: suggest.lisp
-* Problem 2: lost.lisp
-* Problem 3: integers.lisp
-* Problem 4: dungeon.lisp
-* Problem 5: ice.lisp
-* Problem 6: boozzle.lisp
-* Problem 7: timing.factor
-* Problem 8: defenders.lisp
-* Problem 9: checking.lisp
-* Problem 10: island.lisp
+* Problem 1: bitcoin.lisp
+* Problem 2: suggest.lisp
+* Problem 3: lost.lisp
+* Problem 4: integers.lisp
+* Problem 5: dungeon.lisp
+* Problem 6: ice.lisp
+* Problem 7: boozzle.lisp
+* Problem 8: timing.factor
+* Problem 9: defenders.lisp
+* Problem 10: checking.lisp
 * Problem 12: rtty.sh
 * Problem 13: randomness.lisp
 * Problem 14: cipher.lisp
